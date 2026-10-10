@@ -71,6 +71,28 @@ Hey! I'm **Max** — a Python developer and cybersecurity enthusiast. I build pr
   <img alt="Profile views" src="https://vbr.nathanchung.dev/badge?page_id=max-cyou.max-cyou&style=flat-square&color=555D66&lcolor=151719&text=profile_views" />
 </p>
 
+<div align="center">
+  <img
+    height="170"
+    src="https://github-readme-streak-stats-salesp07.vercel.app?user=max-cyou&amp;theme=transparent&amp;hide_border=true&amp;background=00000000&amp;stroke=555D66&amp;ring=555D66&amp;fire=555D66&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=9DA7B3&amp;sideLabels=9DA7B3&amp;dates=9DA7B3&amp;date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
+</div>
+
+<div align="center">
+  <img
+    height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=max-cyou&amp;theme=github_dark&amp;bg_color=00000000&amp;border_color=00000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=555D66&amp;chart_color=555D66"
+    alt="GitHub Stats"
+  />
+  &nbsp;
+  <img
+    height="160"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=max-cyou&amp;theme=github_dark&amp;utcOffset=3&amp;bg_color=00000000&amp;border_color=00000000&amp;title_color=FFFFFF&amp;text_color=FFFFFF&amp;icon_color=555D66&amp;chart_color=555D66"
+    alt="Productive Time"
+  />
+</div>
+
 ---
 
 <p align="center">
